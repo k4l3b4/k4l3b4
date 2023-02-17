@@ -22,13 +22,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="username" height="30" width="40" /></a>
-<a href="https://dev.to/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="username" height="30" width="40" /></a>
+<a href="https://dev.to/k4l3b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="username" height="30" width="40" /></a>
 <a href="https://twitter.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k4l3b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k4l3b4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12324" height="30" width="40" /></a>
-<a href="https://instagram.com/k4l3b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k4l3b" height="30" width="40" /></a>
-<a href="https://dribbble.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="username" height="30" width="40" /></a>
-<a href="https://medium.com/@username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@username" height="30" width="40" /></a>
+<a href="https://instagram.com/k4l3b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k4l3b" height="30" width="40" /></a>
+<a href="https://dribbble.com/k4l3b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="username" height="30" width="40" /></a>
+<a href="https://medium.com/@k4l3b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@username" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
 </p>
 <br/>
