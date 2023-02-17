@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Dart, C#, Rust and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/k4l3b-plo?tab=repositories](https://github.com/k4l3b-plo?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/k4l3b-plo?tab=repositories)
 
 - 💬 Ask me about **React, Next.js, Django, DRF**
 
