@@ -7,7 +7,7 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k4l3b-plo" alt="k4l3b-plo" /></a> </p>
 <br/>
-<p align="left"> <a href="https://twitter.com/username" target="blank"><img src="https://img.shields.io/twitter/follow/username?logo=twitter&style=for-the-badge" alt="username" /></a> </p>
+<p align="left"> <a href="https://twitter.com/k4l3ba" target="blank"><img src="https://img.shields.io/twitter/follow/k4l3ba?logo=twitter&style=for-the-badge" alt="username" /></a> </p>
 <br/>
 - 🌱 I’m currently learning **Python, Dart, C#, Rust and Typescript**
 
