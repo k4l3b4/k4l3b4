@@ -9,7 +9,7 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/k4l3ba" target="blank"><img src="https://img.shields.io/twitter/follow/k4l3ba?logo=twitter&style=for-the-badge" alt="k4l3ba" /></a> </p>
 <br/>
-- 🌱 I’m currently learning **Python, Dart, C#, Rust and Typescript**
+- 🌱 I’m currently learning **Dart, C#, Rust and Typescript**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/k4l3b4?tab=repositories)
 
