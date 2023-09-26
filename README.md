@@ -2,12 +2,8 @@
 <h3 align="center">A positively obsessive Full-stack developer from Ethiopia😍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4l3b4&label=Profile%20views&color=0e75b6&style=flat" alt="k4l3b4" /> </p>
-
 <br/>
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k4l3b4&theme=gruvbox&margin-w=15" alt="k4l3b4" /></a> </p>
-<br/>
-<p align="left"> <a href="https://twitter.com/k4l3ba" target="blank"><img src="https://img.shields.io/twitter/follow/k4l3ba?logo=twitter&style=for-the-badge" alt="k4l3ba" /></a> </p>
+<p align="left"> <a href="https://twitter.com/k4l3ba" target="blank"><img src="https://img.shields.io/twitter/follow/k4l3ba?logo=twitter&style=for-the-badge" alt="k4l3ba" /></a></p>
 <br/>
 - 🌱 I’m currently learning **Dart, C# and Rust**
 
